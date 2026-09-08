@@ -1,7 +1,7 @@
 # Studi_Kasus_3_Debora-Lintang-Apsari
 
-Nama : Debora Lintang Apsari 
-NIM : 2609116011
+Nama : Debora Lintang Apsari |
+NIM : 2609116011 |
 Prodi : Sistem Informasi - A
 
 ## Tentang Program Ini
